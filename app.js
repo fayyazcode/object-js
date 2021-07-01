@@ -29,4 +29,22 @@
 // }
 // document.write("The total Amount of all items is "+ totalAmount);
 
+// Question # 2
+
+// var newInfo = {
+//     name: "Fayyaz Alam",
+//     email: "fayyaz.19@outlook,com",
+//     password: "12345",
+//     age: "23",
+//     gender: "Male",
+//     city: "Karachi",
+//     country: "Pakistan",
+// }
+
+// //in used to check if any o fthos properties are in object
+// console.log("age" in newInfo,"country" in newInfo,"firstName" in newInfo,"lastName" in newInfo);
+
+
+
+
 
