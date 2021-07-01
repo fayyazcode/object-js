@@ -46,5 +46,23 @@
 
 
 
+//Question 3
+
+
+// function Student(name, email, phone, id) {
+//     this.name = name;
+//     this.email = email;
+//     this.phone = phone;
+//     this.id = id;
+// }
+
+
+
+
+// var students = [
+//     new Student("fayyaz","fayyaz@gmail.com",12345678,25591),
+//     new Student("tabish","tabish@gmail.com",6545454,545545)
+// ];
+
 
 
